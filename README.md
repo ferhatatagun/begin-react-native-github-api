@@ -6,8 +6,8 @@ Setup instructions
 
 > git clone https://gitlab.com/ferhatatagun/reactnativegithubapi.git <br>
 > cd reactnativegithubapi <br>
-> yarn <br>
-> yarn start / react-native run-ios - run-android
+> yarn / npm i <br>
+> yarn start / npm start & react-native run-ios - run-android
 
 
 
