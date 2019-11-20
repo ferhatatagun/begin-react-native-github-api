@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/Optional.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/Portability.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/CPortability.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/Traits.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/Utility.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/ferhatatagun/Desktop/Projects/react-native-reactjs-repos/githubApiApp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
