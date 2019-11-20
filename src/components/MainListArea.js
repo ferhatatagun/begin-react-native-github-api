@@ -12,9 +12,6 @@ class MainListArea extends Component {
             <TouchableOpacity style={styles.button} activeOpacity={0.8} onPress={this._handleSubmit} >
                 <Text style={styles.buttonText}> Show Repository </Text>
             </TouchableOpacity> 
-            <TouchableOpacity style={styles.button} activeOpacity={0.8} onPress={this._handleSubmit} >
-                <Text style={styles.buttonText}> Show Detail Page </Text>
-            </TouchableOpacity>
         </View>
         );
     }
